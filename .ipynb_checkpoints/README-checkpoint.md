@@ -8,7 +8,7 @@ We will be giving two sets of presentations on music and fashion styling. In eac
 
 ### Music:
 1. [Favour's Music Presentation](https://github.com/dancerz/ExpertComm/blob/3843e1e63e33496ba885f48988a4148b900123a3/music/music_Favour.pdf)
-2. [Zaria's Music Presentation()
+2. [Zaria's Music Presentation]()
 
 ### Fashion Styling:
 1. [Favour's Fashion Styling Presentation](https://github.com/dancerz/ExpertComm/blob/3843e1e63e33496ba885f48988a4148b900123a3/fashion/fashionstyling_favour.pdf)
